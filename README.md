@@ -1,4 +1,3 @@
-# CardioSense-AI-Cardiovascular-Risk-Predictor-with-XGBoost-and-Email-Alerts
 # 💖 CardioSense.AI - AI-Powered Heart Disease Prediction System
 
 ![image](https://github.com/user-attachments/assets/87bcfce8-82b5-4a4d-a0b6-89c852d402a1)  
